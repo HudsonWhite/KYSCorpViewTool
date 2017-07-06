@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{I want to die}
   spec.description   = %q{Stuff}
-  spec.homepage      = "devcamp.com"
+  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
 
